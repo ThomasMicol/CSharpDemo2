@@ -1,0 +1,5 @@
+S:\OneDrive\Documents\Year 3\Semester 1\.NET Programming Practices\CSharpDemos\Demo2\GradeAverage\GradeAverage\bin\Debug\GradeAverage.exe.config
+S:\OneDrive\Documents\Year 3\Semester 1\.NET Programming Practices\CSharpDemos\Demo2\GradeAverage\GradeAverage\bin\Debug\GradeAverage.exe
+S:\OneDrive\Documents\Year 3\Semester 1\.NET Programming Practices\CSharpDemos\Demo2\GradeAverage\GradeAverage\bin\Debug\GradeAverage.pdb
+S:\OneDrive\Documents\Year 3\Semester 1\.NET Programming Practices\CSharpDemos\Demo2\GradeAverage\GradeAverage\obj\Debug\GradeAverage.exe
+S:\OneDrive\Documents\Year 3\Semester 1\.NET Programming Practices\CSharpDemos\Demo2\GradeAverage\GradeAverage\obj\Debug\GradeAverage.pdb

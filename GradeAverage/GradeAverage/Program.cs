@@ -10,6 +10,8 @@ namespace GradeAverage
     {
         static void Main(string[] args)
         {
+            new GradeAverageController(new ConsoleView(), new GradeAverager()).go();
+
         }
     }
 }
